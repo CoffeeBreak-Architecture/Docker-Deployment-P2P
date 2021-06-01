@@ -1,0 +1,15 @@
+[submodule "Muninn"]
+	path = Muninn
+	url = https://github.com/CoffeeBreak-Architecture/Muninn
+[submodule "Huginn"]
+	path = Huginn
+	url = https://github.com/CoffeeBreak-Architecture/Huginn
+[submodule "Yggdrasil"]
+	path = Yggdrasil
+	url = https://github.com/CoffeeBreak-Architecture/Yggdrasil
+[submodule "Odin"]
+	path = Odin
+	url = https://github.com/CoffeeBreak-Architecture/Odin
+[submodule "Heimdall"]
+	path = Heimdall
+	url = https://github.com/CoffeeBreak-Architecture/Heimdall
